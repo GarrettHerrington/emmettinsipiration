@@ -1,0 +1,30 @@
+body {
+    background-color:black
+}
+h1{
+    color:antiquewhite;
+    font-family: "Libre Baskerville";
+    font-weight: 100;
+    font-size:4rem;
+    text-align: center;
+}
+#emanpic{
+    width:100%;
+    height:50%;
+    margin: auto;
+    border: white 5px;
+}
+#emanpicdiv{
+    width:50%;
+    border: 5px solid white;
+    margin: auto auto auto auto;
+}
+
+p{
+    color:antiquewhite;
+    font-family: "Libre Baskerville", Calibri;
+    font-weight: 80;
+    font-size:20px;
+    text-align: center;
+    margin-bottom: 00px;
+}
